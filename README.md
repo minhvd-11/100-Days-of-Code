@@ -8,3 +8,4 @@ I will update everyday. Hope so!
 
 Day 1 : Diagonal Difference
 Day 2 : Learning Python
+Day 3 : Learning Python
