@@ -6,9 +6,9 @@ It has been along time i haven't practiced coding. So i want to challenge myself
 
 I will update everyday. Hope so!
 
-Day 1 : Diagonal Difference
-Day 2 : Learning Python
-Day 3 : Learning Python
-Day 4 : Learning Python
-Day 5 : Learning Python
-Day 6 : Learning Python
+- Day 1 : Diagonal Difference
+- Day 2 : Learning Python
+- Day 3 : Learning Python
+- Day 4 : Learning Python
+- Day 5 : Learning Python
+- Day 6 : Learning Python
