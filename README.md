@@ -12,3 +12,4 @@ I will update everyday. Hope so!
 - Day 4 : Learning Python
 - Day 5 : Learning Python
 - Day 6 : Learning Python
+- Day 7 : Learning Python
