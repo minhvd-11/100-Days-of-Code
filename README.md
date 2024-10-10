@@ -17,3 +17,5 @@ I will update everyday. Hope so!
 - DAy 9 : Learning Python
 - DAy 10 : Learning Python
 - Day 11 : Learning Python
+- Day 12 : I forgot the laptop charge at work so i cant use my laptop :<
+- Day 13 : Learning Python
