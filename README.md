@@ -20,4 +20,4 @@ I will update everyday. Hope so!
 - Day 12 : I forgot the laptop charge at work so i cant use my laptop :<
 - Day 13 : Learning Python
 - Day 14 : Learning Python + GAM lost :(
-
+- Day 15 : Learning Python
