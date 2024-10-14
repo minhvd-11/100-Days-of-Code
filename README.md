@@ -21,3 +21,4 @@ I will update everyday. Hope so!
 - Day 13 : Learning Python
 - Day 14 : Learning Python + GAM lost :(
 - Day 15 : Learning Python
+- Day 16 : Learning Python
